@@ -14,15 +14,22 @@ Asteroids project notes:
 ------------------------
 
 Original github repo: https://github.com/MozillaReality/unity-webxr-export/pull/415
+
 You can download the original repo as an UnityPackage from here: https://cdn.discordapp.com/attachments/759166366967660584/759846381752942592/WebXR-Exporter1.unitypackage
+
 Notice that this is a specific pull from original webxr exporter project.
 
 
 
 Assets Used in this project: 
+
 Quick Outline: https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488 (If you use it, just take a moment to go there and and rate it!!!!)
+
 Unity Simple VR Teleporter: https://codeload.github.com/IJEMIN/Simple-Unity-VR-Teleporter/zip/master
-							https://assetstore.unity.com/packages/tools/input-management/simple-vr-teleport-115996
+
+https://assetstore.unity.com/packages/tools/input-management/simple-vr-teleport-115996
+
+
 
 
 WebXR original scripts changes to make it work. Details in the Readme provided in the project.
